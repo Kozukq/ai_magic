@@ -1,0 +1,12 @@
+{
+    "Id":197,
+    "Name":"Swamp",
+    "Colors":"",
+    "Mana_cost":"",
+    "Identity":"B",
+    "Text":"",
+    "Effect":[],
+    "Type":"Land",
+    "Subtype":"Swamp",
+    "Supertype":"Basic"
+}

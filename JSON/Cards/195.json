@@ -1,0 +1,12 @@
+{
+    "Id":195,
+    "Name":"Plains",
+    "Colors":"",
+    "Mana_cost":"",
+    "Identity":"W",
+    "Text":"",
+    "Effect":[],
+    "Type":"Land",
+    "Subtype":"Plains",
+    "Supertype":"Basic"
+}

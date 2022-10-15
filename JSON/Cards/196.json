@@ -1,0 +1,12 @@
+{
+    "Id":196,
+    "Name":"Island",
+    "Colors":"",
+    "Mana_cost":"",
+    "Identity":"U",
+    "Text":"",
+    "Effect":[],
+    "Type":"Land",
+    "Subtype":"Island",
+    "Supertype":"Basic"
+}

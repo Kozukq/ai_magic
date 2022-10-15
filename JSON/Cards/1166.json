@@ -1,0 +1,23 @@
+{
+    "Id":1166,
+    "Name":"Electrify",
+    "Colors":"R",
+    "Mana_cost":"{3}{R}",
+    "Identity":"R",
+    "Text":"Electrify deals 4 damage to target creature.",
+    "Effect":[
+        {
+            "Name":"electrify",
+            "Target":"creature",
+			"Nb_target": 1,
+			"Temporary": 0,
+            "Activable":{
+                
+            },
+            "Temporality":"play"
+        }
+    ],
+    "Type":"Instant",
+    "Subtype":null,
+    "Supertype":null
+}

@@ -1,0 +1,12 @@
+{
+    "Id":198,
+    "Name":"Mountain",
+    "Colors":"",
+    "Mana_cost":"",
+    "Identity":"R",
+    "Text":"",
+    "Effect":[],
+    "Type":"Land",
+    "Subtype":"Mountain",
+    "Supertype":"Basic"
+}

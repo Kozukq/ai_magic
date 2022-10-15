@@ -1,0 +1,23 @@
+{
+    "Id":2539,
+    "Name":"Demolish",
+    "Colors":"R",
+    "Mana_cost":"{3}{R}",
+    "Identity":"R",
+    "Text":"Destroy target artifact or land.",
+    "Effect":[
+        {
+            "Name":"demolish",
+            "Target": "artifact or land",
+			"Nb_target": 1,
+			"Temporary": 0,
+            "Activable":{
+                
+            },
+            "Temporality":"play"
+        }
+    ],
+    "Type":"Sorcery",
+    "Subtype":null,
+    "Supertype":null
+}

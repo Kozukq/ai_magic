@@ -1,0 +1,18 @@
+{
+    "Id":17560,
+    "Name":"Headwater Sentries",
+    "Colors":"U",
+    "Mana_cost":"{3}{U}",
+    "Identity":"U",
+    "Text":"",
+	"Evergreen":[],
+    "Effect":[],
+    "Power":2.0,
+    "Toughness":5.0,
+    "Type":"Creature",
+    "Subtype":[
+        "Merfolk",
+        "Warrior"
+    ],
+    "Supertype":null
+}

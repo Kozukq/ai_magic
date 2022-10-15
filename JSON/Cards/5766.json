@@ -1,0 +1,30 @@
+{
+    "Id":5766,
+    "Name":"Rummaging Goblin",
+    "Colors":"R",
+    "Mana_cost":"{2}{R}",
+    "Identity":"R",
+    "Text":"{T}, Discard a card: Draw a card.",
+	"Evergreen":[],
+    "Effect":[
+        {
+            "Name":"rummaging_goblin",
+            "Target":"move",
+			"Nb_target": 1,
+			"Temporary": 0,
+            "Activable":{
+				"Cost_name": ["tap", "discard"],
+				"Cost_quantity": [1, 1]
+            },
+            "Temporality":"activation"
+        }
+    ],
+    "Power":1.0,
+    "Toughness":1.0,
+    "Type":"Creature",
+    "Subtype":[
+        "Rogue",
+        "Goblin"
+    ],
+    "Supertype":null
+}

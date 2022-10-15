@@ -1,0 +1,23 @@
+{
+    "Id":1103,
+    "Name":"Pull from Tomorrow",
+    "Colors":"U",
+    "Mana_cost":"{X}{U}{U}",
+    "Identity":"U",
+    "Text":"Draw X cards, then discard a card.",
+    "Effect":[
+        {
+            "Name":"pull_from_tomorrow",
+            "Target":"player",
+			"Nb_target": 1,
+			"Temporary": 0,
+            "Activable":{
+                
+            },
+            "Temporality":"play"
+        }
+    ],
+    "Type":"Instant",
+    "Subtype":null,
+    "Supertype":null
+}

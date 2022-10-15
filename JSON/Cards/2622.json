@@ -1,0 +1,30 @@
+{
+    "Id": 2622,
+    "Name": "Bastion Mastodon",
+    "Colors": "",
+    "Mana_cost": "{5}",
+    "Identity": "W",
+    "Text": "{W}: Bastion Mastodon gains vigilance until end of turn.",
+	"Evergreen":[],
+	"Effect":[
+		{
+			"Name": "bastion_mastodon",
+			"Target": "self",
+			"Nb_target": 1,
+			"Temporary": 0,
+			"Activable":{
+				"Cost_name": ["mana"],
+				"Cost_quantity": ["{W}"]
+			},
+			"Temporality": "activation"
+		}
+	],
+    "Power": 4.0,
+    "Toughness": 5.0,
+    "Type": [
+        "Artifact",
+        "Creature"
+    ],
+    "Subtype": "Elephant",
+    "Supertype": null
+}

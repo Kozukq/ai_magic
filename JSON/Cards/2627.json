@@ -1,0 +1,18 @@
+{
+    "Id": 2627,
+    "Name": "Consulate Skygate",
+    "Colors": "",
+    "Mana_cost": "{2}",
+    "Identity": "",
+    "Text": "Defender\nReach (This creature can block creatures with flying.)",
+	"Evergreen":["defender","reach"],
+	"Effect":[],
+    "Power": 0.0,
+    "Toughness": 4.0,
+    "Type": [
+        "Artifact",
+        "Creature"
+    ],
+    "Subtype": "Wall",
+    "Supertype": null
+}

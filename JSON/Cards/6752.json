@@ -1,0 +1,33 @@
+{
+    "Id":6752,
+    "Name":"Slice in Twain",
+    "Colors":"G",
+    "Mana_cost":"{2}{G}{G}",
+    "Identity":"G",
+    "Text":"Destroy target artifact or enchantment.\nDraw a card.",
+    "Effect":[
+        {
+            "Name":"slice_in_twain",
+            "Target":"artifact or enchantment",
+			"Nb_target": 1,
+			"Temporary": 0,
+            "Activable":{
+                
+            },
+            "Temporality":"play"
+        },{
+            "Name":"draw_card",
+            "Target":"player",
+			"Nb_target": 1,
+			"Temporary": 0,
+            "Activable":{
+                "Cost_name":[],
+				"Cost_quantity":[] 
+            },
+            "Temporality":"play"
+        }
+    ],
+    "Type":"Instant",
+    "Subtype":null,
+    "Supertype":null
+}
